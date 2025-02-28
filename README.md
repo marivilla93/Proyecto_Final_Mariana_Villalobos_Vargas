@@ -1,2 +1,5 @@
 # Proyecto_Final_Mariana_Villalobos_Vargas
- Proyecto del Curso final de Python
+## Autor: Mariana Villalobos Vargas
+## Profesor: Andrés Mena
+### Fecha: 2025/02/2027
+
